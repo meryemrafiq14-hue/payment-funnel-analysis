@@ -19,8 +19,8 @@ Using SQL and a data science notebook, I built a full product funnel analysis â€
 The finance team flagged that a large portion of subscriptions were not being paid. The core question: **Is there friction in the payment portal that is preventing users from completing payment?**
 
 To answer that, I analyzed the full payment funnel to identify which stages users drop off at, measure payment error rates on both the user side and vendor side, and surface patterns that explain low conversion.
+<img width="1584" height="396" alt="Subscription Payment Funnel Stages" src="https://github.com/user-attachments/assets/68b77131-8b91-4c60-b6cc-47ba087f1f68" />
 
-_Add visualization here: funnel chart or bar chart showing subscription counts at each payment stage_
 
 ---
 
@@ -54,6 +54,13 @@ _Add visualization here: funnel chart or bar chart showing subscription counts a
   | % of subscriptions that never opened the payment portal | 40.68% |
   | % of subscriptions that completed payment successfully |20.34X% |
 
+  <img width="949" height="567" alt="Stacked Bar Chart - Subscriptions by Payment Funnel Stage by Year" src="https://github.com/user-attachments/assets/df72c8b3-871d-47ad-811a-6080a926d701" />
+
+  <img width="950" height="599" alt="Line Chart - Subscriptions by Payment Funnel Stage by Year" src="https://github.com/user-attachments/assets/13b2c9f4-f63f-4bb4-b362-f3ed3a71d323" />
+
+  <img width="941" height="562" alt="Bar Chart - Subscription Error Distribution" src="https://github.com/user-attachments/assets/3c1d4b9b-1cfa-4d9b-b910-d024dc37cd64" />
+
+
   ---
 
   ## Business Recommendations
@@ -83,6 +90,7 @@ _Add visualization here: funnel chart or bar chart showing subscription counts a
         - Segment the funnel by user cohort to analyze whether error rates differ by subscription plan, signup date, or device type
         - Establish a conversion baseline now so that improvements can be accurately measured after changes are implemented
         - Monitor post-fix impact by re-running this analysis after UX or vendor improvements to quantify the lift in successful payments
+- 
                
                 - ---
 
