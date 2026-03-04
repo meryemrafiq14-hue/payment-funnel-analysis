@@ -51,8 +51,8 @@ _Add visualization here: funnel chart or bar chart showing subscription counts a
         | Metric | Value |
         |---|---|
         | % of subscriptions that hit a payment error | ~16.9% |
-        | % of subscriptions that never opened the payment portal | X% |
-        | % of subscriptions that completed payment successfully | X% |
+        | % of subscriptions that never opened the payment portal | 40.68% |
+        | % of subscriptions that completed payment successfully |20.34X% |
 
         ---
 
