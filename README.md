@@ -42,7 +42,7 @@ To answer that, I analyzed the full payment funnel to identify which stages user
 - Data Science Notebook (Hex)
 - Cloud Data Warehouse (Snowflake)
        
-        - ---
+      
 
   ## Results
 
