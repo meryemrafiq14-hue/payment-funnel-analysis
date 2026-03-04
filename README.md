@@ -37,16 +37,16 @@ _Add visualization here: funnel chart or bar chart showing subscription counts a
 ## Skills Used
 
 - SQL: CTEs, CASE statements, Subqueries, Window Functions
-- - Data Visualization: Bar charts, funnel analysis charts
-  - - Data Wrangling and Cleaning
-    - - Data Science Notebook (Hex)
-      - - Cloud Data Warehouse (Snowflake)
+- Data Visualization: Bar charts, funnel analysis charts
+- Data Wrangling and Cleaning
+- Data Science Notebook (Hex)
+- Cloud Data Warehouse (Snowflake)
        
         - ---
 
         ## Results
 
-        _Add your visualizations here with clear titles and axis labels_
+        
 
         | Metric | Value |
         |---|---|
@@ -60,7 +60,7 @@ _Add visualization here: funnel chart or bar chart showing subscription counts a
 
         **1. Reduce friction at the payment entry step**
 
-        Add support for Apple Pay, Google Pay, or saved payment methods so users do not have to manually enter card details every time. This directly addresses user-side errors caused by incorrect or mistyped payment information.
+        Add support for Apple Pay, Google Pay, or saved payment methods so users do not have to enter card details every time manually. This directly addresses user-side errors caused by incorrect or mistyped payment information.
 
         **2. Address vendor-side processing errors**
 
