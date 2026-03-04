@@ -44,41 +44,41 @@ _Add visualization here: funnel chart or bar chart showing subscription counts a
        
         - ---
 
-        ## Results
+  ## Results
 
         
 
-        | Metric | Value |
-        |---|---|
-        | % of subscriptions that hit a payment error | ~16.9% |
-        | % of subscriptions that never opened the payment portal | 40.68% |
-        | % of subscriptions that completed payment successfully |20.34X% |
+  | Metric | Value |
+  |---|---|
+  | % of subscriptions that hit a payment error | ~16.9% |
+  | % of subscriptions that never opened the payment portal | 40.68% |
+  | % of subscriptions that completed payment successfully |20.34X% |
 
-        ---
+  ---
 
-        ## Business Recommendations
+  ## Business Recommendations
 
-        **1. Reduce friction at the payment entry step**
+  **1. Reduce friction at the payment entry step**
 
-        Add support for Apple Pay, Google Pay, or saved payment methods so users do not have to enter card details every time manually. This directly addresses user-side errors caused by incorrect or mistyped payment information.
+  Add support for Apple Pay, Google Pay, or saved payment methods so users do not have to enter card details every time manually. This directly addresses user-side errors caused by incorrect or mistyped payment information.
 
-        **2. Address vendor-side processing errors**
+  **2. Address vendor-side processing errors**
 
-        Escalate to the third-party payment processor to investigate the root cause of vendor-side failures and establish a clear plan to reduce their frequency going forward.
+  Escalate to the third-party payment processor to investigate the root cause of vendor-side failures and establish a clear plan to reduce their frequency going forward.
 
-        **3. Re-engage users who never started the payment process**
+  **3. Re-engage users who never started the payment process**
 
-        A significant segment of subscriptions has not even opened the payment portal, meaning revenue is lost before the funnel begins. Automated payment reminders, in-app nudges, or proactive customer outreach could meaningfully improve this.
+  A significant segment of subscriptions has not even opened the payment portal, meaning revenue is lost before the funnel begins. Automated payment reminders, in-app nudges, or proactive customer outreach could meaningfully improve this.
 
-        **4. Improve the payment widget UX**
+  **4. Improve the payment widget UX**
 
-        Simplify the payment flow with fewer steps, clearer real-time error messages, and better mobile optimization to reduce user-side drop-off.
+  Simplify the payment flow with fewer steps, clearer real-time error messages, and better mobile optimization to reduce user-side drop-off.
 
-        ---
+  ---
 
-        ## Next Steps
+  ## Next Steps
 
-        - Drill deeper into error types to break out vendor errors vs. user errors and understand where to prioritize first
+  - Drill deeper into error types to break out vendor errors vs. user errors and understand where to prioritize first
         - Investigate the segment that never started the payment process to determine if this is a product awareness gap or a UX barrier
         - Segment the funnel by user cohort to analyze whether error rates differ by subscription plan, signup date, or device type
         - Establish a conversion baseline now so that improvements can be accurately measured after changes are implemented
