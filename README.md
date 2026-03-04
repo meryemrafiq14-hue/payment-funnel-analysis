@@ -79,10 +79,10 @@ _Add visualization here: funnel chart or bar chart showing subscription counts a
         ## Next Steps
 
         - Drill deeper into error types to break out vendor errors vs. user errors and understand where to prioritize first
-        - - Investigate the segment that never started the payment process to determine if this is a product awareness gap or a UX barrier
-          - - Segment the funnel by user cohort to analyze whether error rates differ by subscription plan, signup date, or device type
-            - - Establish a conversion baseline now so that improvements can be accurately measured after changes are implemented
-              - - Monitor post-fix impact by re-running this analysis after UX or vendor improvements to quantify the lift in successful payments
+        - Investigate the segment that never started the payment process to determine if this is a product awareness gap or a UX barrier
+        - Segment the funnel by user cohort to analyze whether error rates differ by subscription plan, signup date, or device type
+        - Establish a conversion baseline now so that improvements can be accurately measured after changes are implemented
+        - Monitor post-fix impact by re-running this analysis after UX or vendor improvements to quantify the lift in successful payments
                
                 - ---
 
